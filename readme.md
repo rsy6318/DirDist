@@ -1,1 +1,1 @@
-See https://github.com/rsy6318/DMM
+See https://github.com/rsy6318/DDM
